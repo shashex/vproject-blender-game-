@@ -11,3 +11,8 @@ This is a project for a game based on the blender game engine, in order to reliz
 ## Images
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/0.png)
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/1.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/6.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/8.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/10.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/11.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/dual.png)
