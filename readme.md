@@ -8,6 +8,11 @@ This is a project for a game based on the blender game engine, in order to reliz
 - Red-eclipse character
 - a rifle gun downloaded form free3d website
 
+## Install
+
+- Download 3rd person blender sci-fi pack from opengame art
+- copy all the files in github in the folder of the unpacked 3rd person blender sci-fi pack
+
 ## Images
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/0.png)
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/1.png)
