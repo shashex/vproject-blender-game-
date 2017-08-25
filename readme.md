@@ -5,7 +5,7 @@ The video game I want to develop is based on free models I found on the internet
 
 It is a game where players will face a multitude of threatening aliens, and the game allows also two players simultaneously to help each other.
 
-This is also a project for a game based on the blender game engine, in order to relize a book for teaching how to develop a game in Blender from the beginning.
+This is also a project for a game based on the blender game engine, in order to realize a book for teaching how to develop a game in Blender from the beginning.
 
 ## ReSource
 - 3rd person blender sci-fi pack
