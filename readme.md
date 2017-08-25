@@ -1,9 +1,11 @@
 # V Project (Blender Game Engine) - Pre-alpha
-![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/story.png)
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/text4879.png)
 
 The video game I want to develop is based on free models I found on the internet and are all compatible with open source licenses.
 
 It is a game where players will face a multitude of threatening aliens, and the game allows also two players simultaneously to help each other.
+
+![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/story.png)
 
 This is also a project for a game based on the blender game engine, in order to realize a book for teaching how to develop a game in Blender from the beginning.
 
