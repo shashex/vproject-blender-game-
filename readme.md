@@ -9,11 +9,11 @@ An open source horror survivor game created with Blender (v2.77).
 
 The goal of this project is to develop a platform that enables users to create and share their own content.
 
-# Running (Not ready)
+# Running (ready)
 
-Open game.blend in Blender (2.66 and 2.67 tested). Set "Blender game" -mode. Go to Render-tab. Make sure that you have GLSL as shading mode. Before starting, switch view to camera.
+Open playground_demo.blend in Blender (2.77 tested). Set "Blender game" -mode. Go to Render-tab. Make sure that you have GLSL as shading mode. Before starting, switch view to camera.
 
-#License
+# License
 
 V Project The Game is released under the MIT license.
 
