@@ -1,23 +1,21 @@
 # V Project (Blender Game Engine) - Pre-alpha
+Third Person Survival game using Blender Game Engine
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/text4879.png)
+[Official website](http://vprojectgm.altervista.org)
 
-The video game I want to develop is based on free models I found on the internet and are all compatible with open source licenses.
+# Description
 
-It is a game where players will face a multitude of threatening aliens, and the game allows also two players simultaneously to help each other.
+An open source horror survivor game created with Blender (v2.77).
 
-![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/story.png)
+The goal of this project is to develop a platform that enables users to create and share their own content.
 
-This is also a project for a game based on the blender game engine, in order to realize a book for teaching how to develop a game in Blender from the beginning.
+# Running (Not ready)
 
-## ReSource
-- 3rd person blender sci-fi pack
-- Red-eclipse character
-- a rifle gun downloaded form free3d website
+Open game.blend in Blender (2.66 and 2.67 tested). Set "Blender game" -mode. Go to Render-tab. Make sure that you have GLSL as shading mode. Before starting, switch view to camera.
 
-## Install (Not ready)
+#License
 
-- Download 3rd person blender sci-fi pack from opengame art
-- copy all the files in github in the folder of the unpacked 3rd person blender sci-fi pack
+V Project The Game is released under the MIT license.
 
 ## Images
 ![images](https://raw.githubusercontent.com/shashex/vproject-blender-game-/master/5A.png)
